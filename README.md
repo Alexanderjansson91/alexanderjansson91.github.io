@@ -1,4 +1,6 @@
 # alexanderjansson91.github.io
+<link rel="stylesheet" type="text/css" href="design.css?" />
+
 <p>Mina projekt</p>
 <a href="https://alexanderjansson91.github.io/Deluxepark/">Skol projekt Deluxecar</a>
 
