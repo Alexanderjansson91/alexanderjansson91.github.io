@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" href="mystyle.css">
-
+<div class="profil">
 <img src="profilbild.PNG" alt="profilbild"/>
+</div>
 <H2>Mina projekt</h2>
 <a href="https://alexanderjansson91.github.io/Deluxepark/">Skol projekt "Deluxecar"</a>
 <H2>Sociala medier</h2>
