@@ -69,14 +69,15 @@ body{
     .namn{
         font-size: 15px;
         
-        margin-right: 50px;
+        margin-right: 70px;
+        margin-top:60px;
        
         
         font-family: 'Hind', sans-serif;
     }
 
     .profil{
-        margin-left:2px;
+        margin-left:40px;
        
     }
 
@@ -85,12 +86,12 @@ body{
         height: 500px;
         background-color: rgba(0, 0, 0, 0.5);
         margin: auto;
-        width: 70%;
+        width: 80%;
         border-radius: 5px;
         padding: 10px;
         font-family: 'Hind', sans-serif;
         color: white;
-        margin-top:70px;
+        
         
        
       }
