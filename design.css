@@ -68,7 +68,7 @@ body{
 
     .namn{
         font-size: 15px;
-        margin-top: 50px;
+        
         margin-right: 50px;
        
         
@@ -97,36 +97,4 @@ body{
     
   }
 
-  @media only screen and (max-width: 450px) {
   
-
-    .namn{
-        font-size: 15px;
-        margin-top: 50px;
-        margin-right: 50px;
-       
-        
-        font-family: 'Hind', sans-serif;
-    }
-
-    .profil{
-        margin-left:2px;
-       
-    }
-
-    .info{
-        width: 600px;
-        height: 500px;
-        background-color: rgba(0, 0, 0, 0.5);
-        margin: auto;
-        width: 70%;
-        border-radius: 5px;
-        padding: 10px;
-        font-family: 'Hind', sans-serif;
-        color: white;
-        margin-top:70px;
-        
-       
-      }
-    
-  }
